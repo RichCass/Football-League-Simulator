@@ -16,7 +16,7 @@ Class libraries used:
 - pandas - for a sorted DataFrame of the final league standings
 - tabulate - for presentation purposes
 
-Possible Enhancements:
+Possible enhancements:
 - using a discrete probability distribution such as Poisson to simulate goals scored
 - creating an easier user setup for teams
 - displaying individual match results in the output
