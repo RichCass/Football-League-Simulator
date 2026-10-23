@@ -21,7 +21,7 @@ Possible enhancements:
 - creating an easier user setup for teams
 - displaying individual match results in the output
 
-Example Output:
+Example output:
 ```
 ⚽ Welcome to the Football Simulator! ⚽
 
